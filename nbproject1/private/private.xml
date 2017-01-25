@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/AfficherAide.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/php-script/EnregClient-script.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/EnregAppelView.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/php-script/EnregProduit-script.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/js/script.js</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/php-script/EnregAppel-script.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getAllAppel.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/validationLogin.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getFaqList.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/EnregAdresse.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getEntrepriseInfo.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/EnregClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Models/ClientProduit.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/TestClasses.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Models/Client.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/EnregAppel.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/EnregContactInfo.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/images/AccueilClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/InformationsClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getContactInfo.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Models/Appel.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/index.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getAllUsers.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/EnregClientView.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/php-script/AfficherFaq-script.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/css/style.css</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/AfficherFaq.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Models/Categorie.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getProduits.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Models/Adresse.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/php-script/MiseAJourInfoClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/EnregProduitClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getAllInfoClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/AccueilClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/ChercherClient.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getListFaqWithCategorie.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Models/User.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/MiseAJourView.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/include/enteteIndex.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getCategories.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/EnregProduitView.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/include/entete.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Controllers/getProvinces.php</file>
+            <file>file:/C:/wamp66/www/CentreAppel1/Views/php-script/AccueilClient-script.php</file>
+        </group>
+    </open-files>
+</project-private>

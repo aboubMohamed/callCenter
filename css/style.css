@@ -1,0 +1,167 @@
+body{
+    padding: 0;
+    margin: 0;
+   }
+
+
+#idMenuVertical{
+    background-color:darkkhaki;
+    border:1px solid white;
+    padding:5px;
+    box-shadow:2px 2px 10px gray; 
+    -moz-box-shadow:2px 2px 10px gray;
+    -webkit-box-shadow:2px 2px 10px gray;
+    
+}
+
+fieldset.scheduler-border {
+    border: 1px groove black !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+    box-shadow:  0px 0px 0px 0px #000;
+}
+
+.btn-learn {
+ color: #ffffff;
+ background-color: #823BD0;
+ border-color: #70489C;
+}
+
+.btn-learn:hover,
+.btn-learn:focus,
+.btn-learn:active,
+.btn-learn.active,
+.open .dropdown-toggle.btn-learn {
+ color: #ffffff;
+ background-color: #6D27B8;
+ border-color: #60388A;
+}
+
+.btn-learn:active,
+.btn-learn.active,
+.open .dropdown-toggle.btn-learn {
+ background-image: none;
+}
+
+.btn-learn.disabled,
+.btn-learn[disabled],
+fieldset[disabled] .btn-learn,
+.btn-learn.disabled:hover,
+.btn-learn[disabled]:hover,
+fieldset[disabled] .btn-learn:hover,
+.btn-learn.disabled:focus,
+.btn-learn[disabled]:focus,
+fieldset[disabled] .btn-learn:focus,
+.btn-learn.disabled:active,
+.btn-learn[disabled]:active,
+fieldset[disabled] .btn-learn:active,
+.btn-learn.disabled.active,
+.btn-learn[disabled].active,
+fieldset[disabled] .btn-learn.active {
+ background-color: #823BD0;
+ border-color: #70489C;
+}
+
+.btn-learn .badge {
+ color: #823BD0;
+ background-color: #ffffff;
+}
+
+.btn-donate {
+ color: #ffffff;
+ background-color: #333333;
+ border-color: #262626;
+}
+
+.btn-donate:hover,
+.btn-donate:focus,
+.btn-donate:active,
+.btn-donate.active,
+.open .dropdown-toggle.btn-donate {
+ color: #ffffff;
+ background-color: #4c4c4c;
+ border-color: #333333;
+}
+
+.btn-donate:active,
+.btn-donate.active,
+.open .dropdown-toggle.btn-donate {
+ background-image: none;
+}
+
+.btn-donate.disabled,
+.btn-donate[disabled],
+fieldset[disabled] .btn-donate,
+.btn-donate.disabled:hover,
+.btn-donate[disabled]:hover,
+fieldset[disabled] .btn-donate:hover,
+.btn-donate.disabled:focus,
+.btn-donate[disabled]:focus,
+fieldset[disabled] .btn-donate:focus,
+.btn-donate.disabled:active,
+.btn-donate[disabled]:active,
+fieldset[disabled] .btn-donate:active,
+.btn-donate.disabled.active,
+.btn-donate[disabled].active,
+fieldset[disabled] .btn-donate.active {
+ background-color: #333333;
+ border-color: #262626;
+}
+
+.btn-donate .badge {
+ color: #333333;
+ background-color: #fff;
+}
+
+.btn-training {
+ color: #ffffff;
+ background-color: #f19322;
+ border-color: #f19322;
+}
+
+.btn-training:hover,
+.btn-training:focus,
+.btn-training:active,
+.btn-training.active,
+.open .dropdown-toggle.btn-training {
+ color: #ffffff;
+ background-color: #eb870f;
+ border-color: #d3790d;
+}
+
+.btn-training:active,
+.btn-training.active,
+.open .dropdown-toggle.btn-training {
+ background-image: none;
+}
+
+.btn-training.disabled,
+.btn-training[disabled],
+fieldset[disabled] .btn-training,
+.btn-training.disabled:hover,
+.btn-training[disabled]:hover,
+fieldset[disabled] .btn-training:hover,
+.btn-training.disabled:focus,
+.btn-training[disabled]:focus,
+fieldset[disabled] .btn-training:focus,
+.btn-training.disabled:active,
+.btn-training[disabled]:active,
+fieldset[disabled] .btn-training:active,
+.btn-training.disabled.active,
+.btn-training[disabled].active,
+fieldset[disabled] .btn-training.active {
+ background-color: #f19322;
+ border-color: #f19322;
+}
+
+.btn-training .badge {
+ color: #f19322;
+ background-color: #fff;
+}
+
+#tabs{
+   box-shadow:2px 2px 10px gray; 
+    -moz-box-shadow:2px 2px 10px gray;
+    -webkit-box-shadow:2px 2px 10px gray;  
+}
